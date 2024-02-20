@@ -10,5 +10,5 @@ I recently completed a 12-week intensive Digital Skills Bootcamp in Data with Ju
 - 🤔 I’m looking for help with Community focused data analysis work.
 - 💬 Ask me about Statstics and Community organising
 - 📫 How to reach me:
-              Linkedin: https://www.linkedin.com/in/khadra-badal
-              Email: ebnasom@gmail.com
+    - Linkedin: https://www.linkedin.com/in/khadra-badal
+    - Email: ebnasom@gmail.com
